@@ -12,6 +12,9 @@ so that both the college faculty and business can find the one they want to coll
 ## Method
 
 First of all, Normalizing the dataset, and then categorizing the paper into several fields.
+
 Secondly, Building the relationship between coauthors.
+
 Thirdly, Setting the weight on the edge(link) in the relationship.
+
 Finally, Presenting the model as the diagram and UI.
