@@ -18,3 +18,8 @@ Secondly, Building the relationship between coauthors.
 Thirdly, Setting the weight on the edge(link) in the relationship.
 
 Finally, Presenting the model as the diagram and UI.
+
+## Result
+
+![image](https://github.com/kudea/Social-network/blob/master/code/pic/1.png)
+![image](https://github.com/kudea/Social-network/blob/master/code/pic/2.png)
