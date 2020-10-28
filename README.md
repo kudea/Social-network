@@ -1,4 +1,4 @@
-# Social-network
+# Social Network Recommender
 
 ## Abstract
 
