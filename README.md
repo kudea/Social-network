@@ -1,4 +1,4 @@
-# Social Network Recommender
+# Social Network Recommender System
 
 ## Abstract
 
